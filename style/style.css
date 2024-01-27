@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    margin: 10% 0;
+    margin: 10% 0 5% 0;
     display: flex;
     flex-direction: column;
     width: 55%;
@@ -178,3 +178,31 @@ body {
             font-weight: 700;
             color: var(--Nutmeg);
         }
+
+.attribution {
+    width: 15vw;
+    height: 10vh;
+    border: 0.2rem solid var(--Nutmeg);
+    border-radius: 1rem;
+    text-align: center;
+    margin: 1rem;
+    background-color: var(--Rose-White);
+    font-family: var(--fontYoung);
+}
+
+    .attribution__text {
+        padding: 0.5rem;
+        font-size: 0.8rem;
+        color: var(--Wenge-Brown)
+    }
+
+    .attribution__link {
+        color: var(--Wenge-Brown);
+        text-decoration: none;
+    }
+
+    .attribution__link:hover {
+        color: var(--Nutmeg);
+        text-decoration: underline;
+        font-weight: bold;
+    }

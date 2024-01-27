@@ -24,8 +24,8 @@ body {
 
     .container__img {
         margin: 1rem;
-        width: 94%;
-        height: 18rem;
+        width: 96%;
+        height: 26rem;
         border-radius: 1rem;
         background-image: url(../assets/images/image-omelette.jpeg);
         background-repeat: no-repeat;

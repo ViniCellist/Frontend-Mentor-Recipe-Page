@@ -56,5 +56,5 @@ One more step to become a fullstack dev
 
 - Github - [Portifolio](https://github.com/ViniCellist)
 - Frontend Mentor - [Profile](https://www.frontendmentor.io/profile/ViniCellist)
-- LinkedIn - [Professional](https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/)
+- LinkedIn - [Professional](https://www.linkedin.com/in/viniciussouzaduarte/)
 - Instagram - [Personal](https://www.instagram.com/vinicius_duartesd/)
